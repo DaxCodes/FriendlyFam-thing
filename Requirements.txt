@@ -1,3 +1,3 @@
 flask
-sql-connector-python
+mysql-connector-python
 gunicorn
